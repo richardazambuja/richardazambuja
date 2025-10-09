@@ -1,12 +1,10 @@
 # Olá! Eu sou o Richard Azambuja 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Desenvolvedor **Full Stack** em formação  
-🚀 Apaixonado por tecnologia, web e aprendizado constante  
+Tenho 23 anos, sou um desenvolvedor web em formação. Curso Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia, aplicações web e aprendizado constante e compartilho meu conhecimento e minha jornada no meu [Instagram](https://www.instagram.com/richard_azambujaa)
 
 Atualmente focado em:
-- 🐍 **Python (Django)**
-- ⚛️ **Javascript / HTML / CSS**
+- 🐍 **Construção de sites robustos**
+- ⚛️ **Landing pages simples**
 - 🗄️ **Banco de dados SQL e NoSQL**
 - ☁️ **APIs e integração com o back-end**
 
