@@ -24,4 +24,3 @@ Atualmente focado em:
 ## 📊 Minhas estatísticas
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardazambuja&layout=compact&theme=radical)
