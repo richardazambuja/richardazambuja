@@ -23,7 +23,7 @@ Atualmente focado em:
 
 ## 📊 Minhas estatísticas
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=richardazambuja&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardazambuja&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800)
 
 
 
