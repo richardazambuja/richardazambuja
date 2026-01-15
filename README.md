@@ -19,11 +19,3 @@ Atualmente focado em:
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?logo=visualstudiocode&logoColor=white)
-
-
-## 📊 Minhas estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardazambuja&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800)
-
-
-
