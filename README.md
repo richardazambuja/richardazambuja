@@ -1,6 +1,6 @@
 # Olá! Eu sou o Richard Azambuja 👋
 
-Tenho 23 anos, sou um desenvolvedor web em formação. Curso Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia, aplicações web e aprendizado constante e compartilho meu conhecimento e minha jornada no meu [Instagram](https://www.instagram.com/richard_azambujaa)
+Desenvolvedor Python com foco em aplicações web usando Django e APIs REST. Experiência prática na construção de sistemas fullstack com autenticação, CRUD, ORM e versionamento com Git. Busco vaga de Estágio ou Desenvolvedor Júnior para atuar em times que valorizem código limpo, aprendizado rápido e entrega contínua. [Instagram](https://www.instagram.com/richard_azambujaa)
 
 Atualmente focado em:
 - 🐍 **Construção de sites robustos**
